@@ -14,3 +14,4 @@ rrddt23333333333333333333e266yy99pp
 I'm intereseted in building a new world
   Technology has always catch my attention due to my disability 
   Muscular Dystrophy impacted my life for 30 years now
+  Evolution has been in my head since then and now.
