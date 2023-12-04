@@ -12,5 +12,5 @@ ome69
 353rr25rf
 rrddt23333333333333333333e266yy99pp
 I'm intereseted in building a new world
-  Technology has always cath my attention due to my disability 
+  Technology has always catch my attention due to my disability 
   Muscular Dystrophy impacted my life for 30 years now
