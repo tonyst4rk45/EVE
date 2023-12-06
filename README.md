@@ -15,3 +15,7 @@ I'm intereseted in building a new world
   Technology has always catch my attention due to my disability 
   Muscular Dystrophy impacted my life for 30 years now
   Evolution has been in my head since then and now.
+I don't how to code yet
+i have a long way to go
+video gamers aren't easy to play 
+my disease probably is progressing 
