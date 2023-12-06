@@ -19,3 +19,4 @@ I don't how to code yet
 i have a long way to go
 video gamers aren't easy to play 
 my disease probably is progressing 
+my search for the Perfect AI isn't there yet there 😂 
