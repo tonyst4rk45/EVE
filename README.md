@@ -1,7 +1,7 @@
 q- 👋 Hi, I’m @tonyst4rk45
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... code
+- 💞️ I’m looking to collaborate on ... Evolution
 - 📫 How to reach me ...
 
 <!---
@@ -20,6 +20,6 @@ i have a long way to go
 video gamers aren't easy to play 
 my disease probably is progressing 
 my search for the Perfect AI isn't there yet there 😂 
-/ there is no AI that match my needs 
-OME69yet
+/ there is no AI that match my needs yet 
+OME69
 
