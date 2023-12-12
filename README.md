@@ -23,3 +23,5 @@ my search for the Perfect AI isn't there yet there 😂
 / there is no AI that match my needs yet 
 OME69
 
+ an old silent pond... a frog jumps into the pond, splash! silence again.
+
