@@ -46,3 +46,15 @@ def draw_koi():
 
 # Call the function to draw the koi fish
 draw_koi()
+
+import time
+
+def haiku():
+    print("An old silent pond")
+    time.sleep(1)  # Adding a pause to simulate silence
+    print("A frog jumps into the pond")
+    time.sleep(1)  # Adding a pause for dramatic effect
+    print("Splash! Silence again")
+
+# Execute the haiku
+haiku()
